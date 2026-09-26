@@ -1,0 +1,13 @@
+[project]
+name = "tinycardiounet"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "floppy-tracker>=0.2.2",
+    "matplotlib>=3.11.2",
+    "tensorly>=0.9.0",
+    "torch>=2.14.0",
+    "torchinfo>=1.8.0",
+]
