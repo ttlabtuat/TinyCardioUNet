@@ -96,10 +96,10 @@ If you use this work useful, please citing our paper:
 
 ```bibtex
 @article{TinyCardioUNet,
+  title={TinyCardioUNet: IMU-to-ECG Translation with Graph-Encoded Inter-Axis Dependencies and Tensor Decomposition-Based Parameter Reduction},
+  author={Han, Seungwoo and Chanpornpakdi, Ingon and Noda, Motoi and Leelasiri, Puwadej and Hiruma, Ibuki and Tanaka, Toshihisa},
+  journal={arXiv preprint arXiv:2609.29322},
   doi = {10.48550/arXiv.2609.29322},
-  author = {Han,  Seungwoo and Chanpornpakdi,  Ingon and Noda,  Motoi and Leelasiri,  Puwadej and Hiruma,  Ibuki and Tanaka,  Toshihisa},
-  title = {TinyCardioUNet: IMU-to-ECG Translation with Graph-Encoded Inter-Axis Dependencies and Tensor Decomposition-Based Parameter Reduction},
-  publisher = {arXiv},
-  year = {2026},
+  year={2026}
 }
 ```
