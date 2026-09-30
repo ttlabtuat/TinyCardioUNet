@@ -87,7 +87,7 @@ The dataset used for model training can be found on IEEE Dataport. (Login and su
 - [Mechanocardiograms with ECG reference](https://ieee-dataport.org/documents/mechanocardiograms-ecg-reference)
 
 ## Contact Us
-This repository was published through the official TTLAB account, and the issues and pull requests tab has been disabled. If you encounter any error while model inference, please reach out to the code author below:
+This repository was published through the official TTLAB account, and the Issues and Pull Requests tabs have been disabled. If you encounter any errors during model inference, please contact the code author listed below:
 
 - Seungwoo Han (han@sip.tuat.ac.jp)
 
@@ -96,7 +96,7 @@ If you use this work useful, please citing our paper:
 
 ```bibtex
 @article{TinyCardioUNet,
-  title={TinyCardioUNet: IMU-to-ECG Translation with Graph-Encoded Inter-Axis Dependencies and Tensor Decomposition-Based Parameter Reduction},
+  title={{TinyCardioUNet: IMU-to-ECG Translation with Graph-Encoded Inter-Axis Dependencies and Tensor Decomposition-Based Parameter Reduction}},
   author={Han, Seungwoo and Chanpornpakdi, Ingon and Noda, Motoi and Leelasiri, Puwadej and Hiruma, Ibuki and Tanaka, Toshihisa},
   journal={arXiv preprint arXiv:2609.29322},
   doi = {10.48550/arXiv.2609.29322},
